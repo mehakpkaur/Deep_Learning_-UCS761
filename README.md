@@ -37,13 +37,13 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 
 | Lab | Topic | Description |
 |----|----|----|
-|**Lab 1** | Perceptron & Logic Gates | Implemented a perceptron model to simulate logic gates and understand how weights, bias, and decision boundaries work in simple neural models. |
-|**Lab 2** | Sigmoid & Logistic Regression | Built a binary classifier using the sigmoid activation function and gradient descent. The model was trained on the Glass dataset after preprocessing and normalization. |
-|**Lab 3** | Multiple Linear Regression | Implemented multiple linear regression using NumPy with feature normalization and gradient-based optimization to learn model parameters. |
-|**Lab 4** | Linear Regression Neuron | Designed a single neuron performing linear regression with forward propagation and parameter updates to predict continuous outputs. |
-|**Lab 5** | Learning to Bend a Model | Implemented a two-layer neural network to learn a nonlinear relationship (logarithmic curve) and observe how hidden layers help model complex functions. |
-|**Lab 6** | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
-|**Lab 7** | Neural Network Architecture & Optimizer Experiments | Built a neural network training pipeline from scratch and compared different architectures, activation functions, and optimizers (SGD and Momentum). Performance was evaluated using training/validation loss and accuracy, and the number of model parameters was analyzed. |
+| 1 | Perceptron & Logic Gates | Implemented a perceptron model to simulate logic gates and understand how weights, bias, and decision boundaries work in simple neural models. |
+| 2 | Sigmoid & Logistic Regression | Built a binary classifier using the sigmoid activation function and gradient descent. The model was trained on the Glass dataset after preprocessing and normalization. |
+| 3 | Multiple Linear Regression | Implemented multiple linear regression using NumPy with feature normalization and gradient-based optimization to learn model parameters. |
+| 4 | Linear Regression Neuron | Designed a single neuron performing linear regression with forward propagation and parameter updates to predict continuous outputs. |
+| 5 | Learning to Bend a Model | Implemented a two-layer neural network to learn a nonlinear relationship and observe how hidden layers help model complex functions. |
+| 6 | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
+| 7 | Neural Network Architecture Experiments | Built and evaluated neural networks with different architectures, activation functions, and optimizers such as SGD and Momentum. |
 ---
 # 👩‍💻 Author
 **Mehakpreet Kaur**  
