@@ -61,11 +61,24 @@ In addition to the assignments, this repository also includes materials from the
 - Computer vision fundamentals  
 - Model training and evaluation  
 
-📂 Folder:  
-```
-Coursera_NVIDIA_Modules/
-```
+| Course | Description |
+|------|------|
+| **Fundamentals of Deep Learning** | Focuses on building and training neural networks, understanding forward and backward propagation, and applying optimization techniques used in modern deep learning systems. |
+| **Advanced Deep Learning Techniques** | Explores deeper neural network architectures, performance tuning strategies, and advanced training methodologies used in practical AI applications. |
+
+### 🔗 Courses
+
+- https://www.coursera.org/learn/fundamentals-of-deep-learning
+- https://www.coursera.org/learn/advanced-deep-learning-techniques
+
+### 📁 Materials & Notebooks
+
+NVIDIA (Coursera) modules included in this repository:
+
+🔗 https://github.com/mehakpkaur/Deep_Learning_UCS761/tree/main/Coursera_NVIDIA_Modules
+
 ---
+
 
 
 # 👩‍💻 Author
