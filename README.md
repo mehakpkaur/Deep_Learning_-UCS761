@@ -51,16 +51,6 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 
 In addition to the assignments, this repository also includes materials from the **NVIDIA Deep Learning Institute courses completed through Coursera**.
 
-### Topics Covered
-
-- Fundamentals of neural networks  
-- Forward and backward propagation  
-- Gradient descent optimization  
-- Activation functions  
-- Multi-class classification  
-- Computer vision fundamentals  
-- Model training and evaluation  
-
 | Course | Description |
 |------|------|
 | **Fundamentals of Deep Learning** | Focuses on building and training neural networks, understanding forward and backward propagation, and applying optimization techniques used in modern deep learning systems. |
