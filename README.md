@@ -44,60 +44,10 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 |**Lab 5** | Learning to Bend a Model | Implemented a two-layer neural network to learn a nonlinear relationship (logarithmic curve) and observe how hidden layers help model complex functions. |
 |**Lab 6** | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
 |**Lab 7** | Neural Network Architecture & Optimizer Experiments | Built a neural network training pipeline from scratch and compared different architectures, activation functions, and optimizers (SGD and Momentum). Performance was evaluated using training/validation loss and accuracy, and the number of model parameters was analyzed. |
-
 ---
-
-# 🧠 Concepts Explored
-
-The repository demonstrates implementations and experiments involving:
-
-- Perceptron models  
-- Logistic regression  
-- Gradient descent optimization  
-- Activation functions (Sigmoid, ReLU)  
-- Feature normalization  
-- Neural network training  
-- Shallow vs deep architectures  
-- Optimizers (SGD, Momentum)  
-- Function approximation using neural networks  
-
----
-
-# ⚙️ Technologies Used
-
-- **Python**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Jupyter Notebook**
-
----
-
-# 📂 Repository Structure
-
-```
-LAB_1_Logic_Gates.ipynb
-LAB_2_Sigmoid_Function.ipynb
-LAB_3_Multiple_Linear_Regression.ipynb
-LAB_4_Linear_Regression_Neuron.ipynb
-LAB_5_Learning_to_Bend_Model.ipynb
-LAB_6_Shallow_vs_Deep.ipynb
-LAB_7_Neural_Network_Experiments.ipynb
-README.md
-```
-
-Each notebook contains the implementation, experiments, and outputs related to the corresponding laboratory exercise.
-
----
-
 # 👩‍💻 Author
-
 **Mehakpreet Kaur**  
-B.Tech – Computer Science Engineering  
-Thapar Institute of Engineering & Technology  
-
-Course: **UCS761 – Deep Learning**
+Roll no.- 102317094
 
 ---
 
-⭐ If you find this repository useful, consider giving it a **star**.
