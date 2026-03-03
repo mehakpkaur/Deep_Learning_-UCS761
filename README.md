@@ -71,11 +71,9 @@ In addition to the assignments, this repository also includes materials from the
 - https://www.coursera.org/learn/fundamentals-of-deep-learning
 - https://www.coursera.org/learn/advanced-deep-learning-techniques
 
-### 📁 Materials & Notebooks
+📁 Materials & Certificates:
 
-NVIDIA (Coursera) modules included in this repository:
-
-🔗 https://github.com/mehakpkaur/Deep_Learning_UCS761/tree/main/Coursera_NVIDIA_Modules
+[NVIDIA (Coursera)](https://github.com/mehakpkaur/Deep_Learning_UCS761/tree/main/Coursera_NVIDIA_Modules)
 
 ---
 
