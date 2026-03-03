@@ -61,6 +61,10 @@ In addition to the assignments, this repository also includes materials from the
 - Computer vision fundamentals  
 - Model training and evaluation  
 
+📂 Folder:  
+```
+Coursera_NVIDIA_Modules/
+```
 ---
 
 
