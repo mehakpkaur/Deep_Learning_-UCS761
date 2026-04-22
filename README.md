@@ -76,7 +76,7 @@ In addition to the assignments, this repository also includes materials from the
 - [https://www.coursera.org/learn/generative-ai-introduction-and-applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications?specialization=generative-ai-for-everyone )  
 
 ### 📁 Materials & Certificates:
-- [Generative AI – Intro & Applications](./Generative AI-Intro and Applications)  
+- [Generative AI – Intro & Applications](./Generative%20AI-Intro%20and%20Applications)  
 
 
 ---
